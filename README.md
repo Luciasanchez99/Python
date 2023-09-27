@@ -4,7 +4,8 @@
 
 ## Práctica utilizando Python
 
-
+En esta primera páctica de python se han analizado los datos de las emisiones contaminantes emitidas durante los años 2016 a 2019 en la ciudad de Sevilla. En dicha práctica se ha realizado un análisis
+exploratorio de los datos utilizando diversas librerias de python como Numpy, Pandas o Matplotlib. Todo ello para poder dar respuesta a diversas cuestiones planteadas en el ejercicio.
 
 ## Aprendizaje Continuo
 
