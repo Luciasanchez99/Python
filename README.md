@@ -11,6 +11,11 @@ exploratorio de los datos utilizando diversas librerias de python como Numpy, Pa
 
 La segunda práctica de python consiste en leer un texto y crear una función que toma una lista de calcetines como entrada y cuenta cuántos calcetines de color negro ('N') y cuántos calcetines de color gris ('G') hay en la lista. Luego, se verifica cuántos calcetines de cada color se cuentan y devuelve un mensaje basado en esa información. En resumen, este ejercicio consiste en contar la cantidad de calcetines negros y grises en la lista y determina si están emparejados o si hay calcetines de un solo color sin emparejar.
 
+## 3 Práctica 
+
+La tercera práctica de python consiste en leer un texto y crear una función que numere las páginas de un libro apareciendo la hoja con numeración impar a la derecha cuando se abre el libro completamente.
+Cada caso de prueba consiste en un único número (entre 2 y 1000) con la numeración de una de las páginas que se ve en el libro abierto.
+
 ## Aprendizaje Continuo
 
 Siempre estoy buscando oportunidades para aprender y crecer como analista. He participado en cursos en línea, así como he asistido a conferencias. Mantengo un registro de mis actividades de aprendizaje para mostrar mi compromiso con el crecimiento constante.
