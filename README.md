@@ -21,6 +21,10 @@ Cada caso de prueba consiste en un único número (entre 2 y 1000) con la numera
 La cuarta práctica de python consiste en realizar unos ejercicios simples con la librería Numpy para poner en práctica mis conocimientos adquiridos. Además, en el mismo documento se ha realizado un ejercicio
 con la libreria pandas para analizar los datos de las estaciones de bicicletas en distintas ciudades de Europa. 
 
+## 5 Práctica
+
+La quinta práctica de python consiste en la utilización de la libreria scikit-learn para crear un modelo de clasificación lineal perceptron. En ella, se ha utilizado la base de datos Iris la cual contiene tres tipos diferentes de flores Iris. Se ha entrenado el modelo, se ha analizado el accuracy de la predicción realizada, así como el peso y el sesgo del modelo.
+
 ## Aprendizaje Continuo
 
 Siempre estoy buscando oportunidades para aprender y crecer como analista. He participado en cursos en línea, así como he asistido a conferencias. Mantengo un registro de mis actividades de aprendizaje para mostrar mi compromiso con el crecimiento constante.
